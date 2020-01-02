@@ -1,0 +1,93 @@
+.btn-primary:not(:disabled):not(.disabled).active:focus, .btn-primary:not(:disabled):not(.disabled):active:focus, .show > .btn-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 .2rem rgb(26,105,127);
+}
+
+.text-primary {
+  color: #1A697f!important;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
+  color: #fff;
+  background-color: #1A697F;
+  border-color: #77A3B1;
+}
+
+.btn-primary:active, .btn-primary:focus {
+  box-shadow: 0 0 0 .2rem rgba(119, 163, 177, 1)!important;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  color: #fff;
+  background-color: #1a697f!important;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  color: #fff;
+  background-color: #1a697f!important;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  color: #fff;
+  background-color: #1a697f!important;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #1a697f;
+  border-color: #77a3b1;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  color: #fff;
+  background-color: #1a697f!important;
+}
+
+.btn-primary {
+  background-color: #1a697f;
+  border-color: #77a3b1;
+}
+
+a:hover {
+  color: #1a697f;
+  text-decoration: underline;
+}
+
+a, a:hover {
+  color: #77a3b1;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #1a697f;
+  border-color: #77a3b1;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  color: #fff;
+  background-color: #1a697f!important;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
+  color: #fff;
+  background-color: #1a697f;
+  border-color: #77a3b1;
+}
+
+#mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover, #mainNav .navbar-nav > li.nav-item > a.nav-link:hover {
+  color: #1a697f;
+}
+
+#mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
+  color: #1a697f;
+}
+
+a, a:hover {
+  color: #1a697f;
+}
+
+#mainNav .navbar-brand {
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #1a697f;
+}
+
